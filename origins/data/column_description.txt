@@ -1,0 +1,13 @@
+1. Gender: Geschlecht der Passagiere
+2. Customer Type: Kundentyp
+3. Age: Alter der Passagiere
+4. Type of Travel: Grund des Flugs
+5. Class: Flugzeugklasse, in der die Passagiere gebucht haben
+6. Flight distance: Flugdistanz zwischen Abflugsort und Zielort (in Kilometer)
+7. Food and drink: Zufriedenheitsgrad bzgl. dem Essen und Trinken an Board (0:Nicht zufrieden; 1-5)
+8. On-board service: Zufriedenheitsgrad bzgl. dem Onboard-Service (0:Nicht zufrieden; 1-5)
+9. Leg room service: Zufriedenheitsgrad bzgl. der Beinfreiheit (0:Nicht zufrieden; 1-5)
+10. Departure Delay in Minutes: Verspätung beim Abflug (in Minuten)
+11. satisfaction: Ist der Passagier zufrieden mit der Airline (Satisfaction=1, dissatisfaction=0) ?
+12. Customer ID: KundenID
+13. isPilot: Beim Passagier handelt es sich um einen Piloten
